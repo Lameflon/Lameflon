@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hello👋<br>I am Arun a developer, creator and a researcher
 
 
